@@ -1,0 +1,22 @@
+{
+  "name": "xfuturomax/graphql-php-",
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://asset-packagist.org"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/xfuturomax/yii2-graphql"
+    }
+  ],
+  "require": {
+    "php": ">=7.3.0",
+    "webonyx/graphql-php": "~14.5.0",
+    "yiisoft/yii2": "^2.0",
+    "tsingsun/yii2-graphql": "dev-master"
+  },
+  "require-dev": {
+    "roave/security-advisories": "dev-master"
+  }
+}
